@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Smeet Raichura Banner" width="100%">
+</p>
+
 <h1 align="center">Hey there 👋, I'm Smeet Raichura</h1>
 <h3 align="center">2nd-Year Student @ DARSHAN UNIVERSITY | AI/ML Aspirant | Professional Badminton Player</h3>
 
