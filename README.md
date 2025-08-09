@@ -8,7 +8,7 @@
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**  
 - 🏸 Professional **Badminton Player** & tech enthusiast  
 - 📚 Currently learning **Probability, Statistics, and Machine Learning Fundamentals**  
-- 🎯 Goal: Become an **AI Engineer** with top-tier expertise and secure a **30+ LPA package**  
+- 🎯 Goal: Become an **AI Engineer** with top-tier expertise  
 
 ---
 
