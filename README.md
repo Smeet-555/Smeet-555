@@ -5,6 +5,10 @@
 <h1 align="center">Hey there 👋, I'm Smeet Raichura</h1>
 <h3 align="center">2nd-Year Student @ DARSHAN UNIVERSITY | AI/ML Aspirant | Professional Badminton Player</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Smeet-555&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -56,3 +60,4 @@ Here are some projects I’m working on / planning to work on:
 ---
 
 💡 *“Code, Learn, and Smash — both in AI & on the Badminton court!”*
+
