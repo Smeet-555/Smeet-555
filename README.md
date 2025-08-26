@@ -37,8 +37,9 @@ Here are some projects I’m working on / planning to work on:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smeet-555&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smeet-555&theme=tokyonight" alt="streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Smeet-555&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Smeet-555&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smeet-555&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 ---
@@ -49,7 +50,7 @@ Here are some projects I’m working on / planning to work on:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smeet-555&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smeet-555&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 ---
