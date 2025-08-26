@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Smeet Raichura Banner" width="100%">
-</p>
-
 <h1 align="center">Hey there 👋, I'm Smeet Raichura</h1>
 <h3 align="center">2nd-Year Student @ DARSHAN UNIVERSITY | AI/ML Aspirant | Professional Badminton Player</h3>
 
@@ -47,6 +43,17 @@ Here are some projects I’m working on / planning to work on:
 
 ---
 
+### 🏆 GitHub Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Smeet-555&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smeet-555&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/smeet-raichura-303655333/" target="_blank">
@@ -60,4 +67,3 @@ Here are some projects I’m working on / planning to work on:
 ---
 
 💡 *“Code, Learn, and Smash — both in AI & on the Badminton court!”*
-
