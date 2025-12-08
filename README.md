@@ -36,12 +36,13 @@ Here are some projects I’m working on / planning to work on:
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smeet-555&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Smeet-555&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smeet-555&theme=react&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Smeet-555&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -56,4 +57,3 @@ Here are some projects I’m working on / planning to work on:
   </a>
 </p>
 
-💡 *“Code, Learn, and Smash — both in AI & on the Badminton court!”*
