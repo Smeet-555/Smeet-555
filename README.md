@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Smeet Raichura</h1>
-<h3 align="center">2nd-Year Student @ DARSHAN UNIVERSITY | AI/ML Aspirant | Professional Badminton Player</h3>
+<h3 align="center">2nd-Year Student @ DARSHAN UNIVERSITY | AI/ML Aspirant</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smeet-555&style=flat-square&color=blue" alt="Profile views"/>
@@ -10,7 +10,6 @@
 ### 🚀 About Me
 - 🎓 Currently pursuing **B.Tech in Computer Engineering** at **Darshan University**  
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**  
-- 🏸 Professional **Badminton Player** & tech enthusiast  
 - 📚 Currently learning **Probability, Statistics, and Machine Learning Fundamentals**  
 - 🎯 Goal: Become an **AI Engineer** with top-tier expertise  
 
@@ -19,6 +18,7 @@
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -37,20 +37,11 @@ Here are some projects I’m working on / planning to work on:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smeet-555&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Smeet-555&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smeet-555&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
----
-
-### 🏆 GitHub Achievements & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smeet-555&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Smeet-555&show_icons=true&theme=react"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smeet-555&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smeet-555&theme=react&hide_border=true"/>
 </p>
 
 ---
@@ -64,7 +55,5 @@ Here are some projects I’m working on / planning to work on:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 💡 *“Code, Learn, and Smash — both in AI & on the Badminton court!”*
