@@ -66,9 +66,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Optional but Recommended)
-
-> ⚠️ Requires GitHub Action setup (won’t break README if missing)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Smeet-555/Smeet-555/output/github-contribution-grid-snake.svg" />
